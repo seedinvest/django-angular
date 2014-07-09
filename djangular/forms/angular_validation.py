@@ -2,7 +2,7 @@
 import types
 from django.conf import settings
 from django.utils.importlib import import_module
-from django.utils.html import format_html
+from djangular.utils.html import format_html
 from django.utils.encoding import force_text
 from djangular.forms.angular_base import NgFormBaseMixin, SafeTuple
 

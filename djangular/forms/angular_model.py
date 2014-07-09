@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 from django.forms.util import ErrorDict
-from django.utils.html import format_html
+from djangular.utils.html import format_html
 from djangular.forms.angular_base import NgFormBaseMixin, SafeTuple
 
 

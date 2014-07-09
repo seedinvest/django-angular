@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from django.utils.html import format_html
+from djangular.utils.html import format_html
 from django.utils.safestring import mark_safe
 from django.utils.encoding import force_text
 from django.forms.util import flatatt

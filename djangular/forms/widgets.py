@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 from django.forms import widgets
-from django.utils.html import format_html
+from djangular.utils.html import format_html
 from django.forms.util import flatatt
 
 

@@ -5,7 +5,7 @@ from django.forms import forms
 from django.forms import fields
 from django.forms import widgets
 from django.http import QueryDict
-from django.utils.html import format_html
+from djangular.utils.html import format_html
 from django.utils.encoding import force_text
 from django.utils.safestring import mark_safe, SafeData
 from djangular.forms.widgets import CheckboxSelectMultiple as DjngCheckboxSelectMultiple
